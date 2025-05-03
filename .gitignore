@@ -1,0 +1,14 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# pytest cache
+pytest_cache/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Operating system files (macOS, Windows)
+.DS_Store
+Thumbs.db
