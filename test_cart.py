@@ -7,7 +7,7 @@ from selenium.webdriver.support import expected_conditions as EC
 import pytest
 import time
 
-#TEST ÇALIŞTI HİÇ HATA YOK
+
 
 
 class Test_Cart:
