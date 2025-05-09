@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 
 # pytest cache
-pytest_cache/
+.pytest_cache/
 
 # IDE settings
 .vscode/
