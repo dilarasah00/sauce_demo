@@ -9,6 +9,6 @@ __pycache__/
 .vscode/
 .idea/
 
-# Operating system files (macOS, Windows)
+# Operating system files 
 .DS_Store
 Thumbs.db
